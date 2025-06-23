@@ -3,6 +3,7 @@ __pycache__/
 .env
 .venv
 data/*.csv
+data/*.txt
 *.csv
 *.log
 venv/
